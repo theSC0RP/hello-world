@@ -2,5 +2,5 @@
 First repository
 
 Hello humans,
-  I am Gandhar Bichkar. I am studying Deep Learning in Python and ReactJS. 
-  I want to play PUBG but coding > pubg... calling the method codeAndDrinkCoffee()
+  I am Gandhar Bichkar. I like Machine Learning, ReactJS and Android Dev.
+  I want to play games but coding > games... calling the method codeAndDrinkCoffee()
